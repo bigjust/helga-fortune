@@ -1,6 +1,7 @@
 helga-fortune
 ===========
 
+requires fortune.
 
 License
 -------
